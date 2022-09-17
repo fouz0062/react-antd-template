@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "https://fouz0062.github.io/react-antd-template/static/css/main.e023b7e5.css",
-    "main.js": "https://fouz0062.github.io/react-antd-template/static/js/main.e464e965.js",
+    "main.css": "https://fouz0062.github.io/react-antd-template/static/css/main.0e1237c6.css",
+    "main.js": "https://fouz0062.github.io/react-antd-template/static/js/main.7415a996.js",
     "static/js/787.22cc34f5.chunk.js": "https://fouz0062.github.io/react-antd-template/static/js/787.22cc34f5.chunk.js",
     "static/media/Contact-bg.jpg": "https://fouz0062.github.io/react-antd-template/static/media/Contact-bg.ee3516b89943650f54da.jpg",
     "static/media/product-bg.jpg": "https://fouz0062.github.io/react-antd-template/static/media/product-bg.a095e00c335b40865ee1.jpg",
     "static/media/Company-bg.jpg": "https://fouz0062.github.io/react-antd-template/static/media/Company-bg.2953d9d12e4c560a33d4.jpg",
     "static/media/constructive_bg_01.jpg": "https://fouz0062.github.io/react-antd-template/static/media/constructive_bg_01.c6502070fc35bba1d83c.jpg",
     "index.html": "https://fouz0062.github.io/react-antd-template/index.html",
-    "main.e023b7e5.css.map": "https://fouz0062.github.io/react-antd-template/static/css/main.e023b7e5.css.map",
-    "main.e464e965.js.map": "https://fouz0062.github.io/react-antd-template/static/js/main.e464e965.js.map",
+    "main.0e1237c6.css.map": "https://fouz0062.github.io/react-antd-template/static/css/main.0e1237c6.css.map",
+    "main.7415a996.js.map": "https://fouz0062.github.io/react-antd-template/static/js/main.7415a996.js.map",
     "787.22cc34f5.chunk.js.map": "https://fouz0062.github.io/react-antd-template/static/js/787.22cc34f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e023b7e5.css",
-    "static/js/main.e464e965.js"
+    "static/css/main.0e1237c6.css",
+    "static/js/main.7415a996.js"
   ]
 }
